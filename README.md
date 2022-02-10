@@ -2,4 +2,4 @@
 
 A todolist app to keep track of all your tasks.
 
-Use Realm With cocoapods
+Use Realm/SwiCellKit/ChameleonFramework With cocoapods
